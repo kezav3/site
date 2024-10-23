@@ -1,0 +1,7 @@
+site web utilisé pour le site projet NSI : 
+
+https://facemweb.com/creation-site-internet/liste-balises-html
+
+https://openclassrooms.com/fr/courses/1603881-creez-votre-site-web-avec-html5-et-css3/8061278-integrez-le-css-dans-la-page-html
+
+https://developer.mozilla.org/fr/docs/Learn/Getting_started_with_the_web/HTML_basics
